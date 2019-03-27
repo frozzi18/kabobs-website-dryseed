@@ -7,8 +7,7 @@ const Header =()=>{
             <p>
                 {'This is kabobs website'}
             </p>
-            <div>
-                
+            <div>                
                 <h1>Kabobs</h1>
             </div>
         </div>
